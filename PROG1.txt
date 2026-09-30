@@ -1,20 +1,10 @@
-1. lámpara - http://dle.rae.es/?id=MqxCKuY
-2. cañería - http://dle.rae.es/?id=7G1uVB0
-3. algoritmo - https://dle.rae.es/algoritmo
-4. bit - https://dle.rae.es/bit
-5. bucle - https://dle.rae.es/bucle
-6. código - https://dle.rae.es/c%C3%B3digo
-7. datos - https://dle.rae.es/datos
-8. matriz - https://dle.rae.es/matriz
-9. memoria - https://dle.rae.es/memoria
-10. red - https://dle.rae.es/red
-11. Playa- https://dle.rae.es/playa?m=form
-12. Libro- https://dle.rae.es/libro?m=form
-13. Coche- https://dle.rae.es/coche
-14. Manzana- https://dle.rae.es/manzana?m=form
-15. Reloj- https://dle.rae.es/reloj?m=form
-16. Planta- https://dle.rae.es/planta?m=form
-17. Armario- https://dle.rae.es/armario?m=form
-18. Ciudad- https://dle.rae.es/ciudad?m=form
-19. Alegría- https://dle.rae.es/alegr%C3%ADa
-20. Afecto- https://dle.rae.es/afecto?m=form
+planta https://dle.rae.es/planta
+edificio https://dle.rae.es/edificio?m=form
+coche https://dle.rae.es/coche?m=form
+persona https://dle.rae.es/persona?m=form
+gas https://dle.rae.es/gas?m=form
+luz https://dle.rae.es/luz?m=form
+felicidad https://dle.rae.es/felicidad?m=form
+ciervo https://dle.rae.es/ciervo?m=form
+patín https://dle.rae.es/pat%C3%ADn?m=form
+manzana https://dle.rae.es/manzana?m=form
